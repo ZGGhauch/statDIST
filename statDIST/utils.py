@@ -1,0 +1,1 @@
+# -------------------------------------------------------------# Utilities module## Author: Ziad Ghauch## Reference# https://en.wikipedia.org/wiki/Statistical_distance# -------------------------------------------------------------import numpy as npimport matplotlib.pyplot as pltfrom statDIST.divergences import Divergencefrom statDIST.metrics import Metrics   
